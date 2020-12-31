@@ -7,7 +7,7 @@
 - HTML5
 - CSS
 
-### To see yourself
+### See yourself!
 ```
 npm install && npm start
 ```
