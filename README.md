@@ -1,4 +1,4 @@
-# Tour list
+# Accordion
 4th of 15 React Projects following [John Smilga](https://github.com/john-smilga/react-projects) tutorial from FreeCodeCamp course. This project was built using UseState to render info list and implement toggle button.
 
 ### 🛠 Tools:
